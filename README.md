@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rollingtank&show_icons=true&locale=en" alt="rollingtank" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rollingtank&" alt="rollingtank" /></p>
+
+[![lightspeedcoder's GitHub | Topics Over Time](https://stats.quira.sh/lightspeedcoder/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=lightspeedcoder)
