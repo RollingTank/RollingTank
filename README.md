@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanush </h1>
-<h3 align="center">A curious and passionate coder</h3>
+<h3 align="center">A enthusiastic coder and a passionate learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rollingtank&label=Profile%20views&color=0e75b6&style=flat" alt="rollingtank" /> </p>
 
-- 🌱 I’m currently learning **Front-end development, C++, Machine Learning**
+- 🌱 I’m currently learning **Kotlin, C++, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
