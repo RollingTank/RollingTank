@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rollingtank&label=Profile%20views&color=0e75b6&style=flat" alt="rollingtank" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rollingtank" alt="rollingtank" /></a> </p>
-
 - 🌱 I’m currently learning **Front-end development, C++, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
